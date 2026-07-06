@@ -35,5 +35,15 @@ public boolean verifyPlaceOrder() {
 		return driver.findElement(placeorderButton).isDisplayed();
 		
 		}	
+public boolean verifyPlaceOrder1() {
 	
+	return driver.findElement(placeorderButton).isDisplayed();
+	
+	}	
+public boolean verifyPlaceOrder2() {
+	
+	return driver.findElement(placeorderButton).isDisplayed();
+	
+	}	
+
 }
